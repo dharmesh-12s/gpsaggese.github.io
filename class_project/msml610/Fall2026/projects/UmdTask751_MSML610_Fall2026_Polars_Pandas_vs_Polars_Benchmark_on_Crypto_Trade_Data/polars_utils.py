@@ -10,7 +10,7 @@ This file contains utility functions that support the tutorial notebooks.
 
 Import as:
 
-import class_project.project_template.template_utils as utils
+import class_project.msml610.Fall2026.projects.UmdTask751_MSML610_Fall2026_Polars_Pandas_vs_Polars_Benchmark_on_Crypto_Trade_Data.polars_utils as cpmfpumfppvpboctdpu
 """
 
 import logging
